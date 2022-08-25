@@ -31,6 +31,9 @@ Am besten geeignet ist diese Art von Datenbank, wenn man eine skalierbare Lösun
 ## Unterschiede zu Relationalen Datenbanken
 Bei Dokument Datenbanken werden die Informationen in einem einzelnen File gespeichert. Es ist deshalb ein eigenes Objekt.
 
+## Performance
+Anstatt Daten aus mehreren verwandten Tabellen abzurufen, finden Sie alles, was Sie benötigen, in einem Dokument. Da alles an einem einzigen Ort aufbewahrt wird, ist es viel schneller, die Daten zu erreichen und abzurufen.
+
 ## Bekannteste Dokument Datenbanken
 Zu den bekanntesten Dokument Datenbanken gehören z.B. folgende:
 Amazon DynamoDB.
